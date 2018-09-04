@@ -5,8 +5,6 @@ Created a Blockchain implementation as per the conditions given by Examiner.I ma
   - created a new node
   - Encryption of data
   
-  
-```
 
 #### Functions Created
 
